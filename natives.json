@@ -696,7 +696,7 @@
       "return_type": "void"
     }
   },
-  "LocalOptions": {
+  "LOCALOPTIONS": {
     "0x470CA20A": {
       "name": "LocalOptions_LookupVehicleProfile",
       "comment": "",
@@ -845,7 +845,7 @@
       "return_type": "Vehicle"
     }
   },
-  "CarConfig": {
+  "CARCONFIG": {
     "0x2EE52E35": {
       "name": "CarConfig_GetVehicleTypeName",
       "comment": "",
@@ -858,7 +858,7 @@
       "return_type": "const char*"
     }
   },
-  "Throw": {
+  "THROW": {
     "0x6BB1FE2B": {
       "name": "IsChildFinished",
       "comment": "",
@@ -953,7 +953,7 @@
       "return_type": "int"
     }
   },
-  "LayerPlayer": {
+  "LAYERPLAYER": {
     "0xD3A67715": {
       "name": "LayerPlayer_LoadPlayer",
       "comment": "",
@@ -1020,7 +1020,7 @@
       "return_type": "void"
     }
   },
-  "LayerCity": {
+  "LAYERCITY": {
     "0x80636579": {
       "name": "LayerCity_LoadCity",
       "comment": "",
@@ -1039,7 +1039,7 @@
       "return_type": "void"
     }
   },
-  "Ambients": {
+  "AMBIENTS": {
     "0x41034270": {
       "name": "LayerAmbients_LoadAmbients",
       "comment": "",
@@ -1058,7 +1058,7 @@
       "return_type": "void"
     }
   },
-  "City": {
+  "CITY": {
     "0xCDCECBE5": {
       "name": "City_SetFixedStreamingCam",
       "comment": "",
@@ -1163,7 +1163,7 @@
       "return_type": "void"
     }
   },
-  "Game": {
+  "GAME": {
     "0x97656595": {
       "name": "Game_SetCamera",
       "comment": "",
@@ -1231,7 +1231,7 @@
       "return_type": "void"
     }
   },
-  "Control": {
+  "CONTROL": {
     "0xC3297B50": {
       "name": "IS_BUTTON_DOWN",
       "comment": "",
@@ -1274,7 +1274,7 @@
       "return_type": "float"
     }
   },
-  "Garage": {
+  "GARAGE": {
     "0x39149253": {
       "name": "Garage_TransitionIntoRateMyRide",
       "comment": "",
@@ -1361,7 +1361,7 @@
       "return_type": "void"
     }
   },
-  "Lookup": {
+  "LOOKUP": {
     "0xC6FACDFF": {
       "name": "GetCurrentCity",
       "comment": "",
@@ -1402,7 +1402,7 @@
       "return_type": "const char*"
     }
   },
-  "CityDescription": {
+  "CITYDESCRIPTION": {
     "0xBEFE0AB1": {
       "name": "CityDescription_GetDefaultStartPosition",
       "comment": "",
@@ -1502,7 +1502,7 @@
       "return_type": "const char*"
     }
   },
-  "RaceDescription": {
+  "RACEDESCRIPTION": {
     "0x01007D47": {
       "name": "RaceDescription_GetNumGridPositions",
       "comment": "",
@@ -1700,7 +1700,7 @@
       "return_type": "BOOL"
     }
   },
-  "mcRace": {
+  "MCRACE": {
     "0x3AD82B5F": {
       "name": "mcRaceArray_Create",
       "comment": "",
@@ -1911,7 +1911,7 @@
       "return_type": "void"
     }
   },
-  "Commands": {
+  "COMMANDS": {
     "0xBF7051E6": {
       "name": "GetCityCommandLine",
       "comment": "",
@@ -2072,7 +2072,7 @@
       "return_type": "Byte"
     }
   },
-  "Memory": {
+  "MEMORY": {
     "0x62FC5631": {
       "name": "StartLogMemory",
       "comment": "",
@@ -2092,7 +2092,7 @@
       "return_type": "void"
     }
   },
-  "Particles": {
+  "PARTICLES": {
     "0x6886A9DA": {
       "name": "Particles_CreateParticleEffect",
       "comment": "",
@@ -2120,7 +2120,7 @@
       "return_type": "void"
     }
   },
-  "mcGame": {
+  "MCGAME": {
     "0xD4E9439E": {
       "name": "mcGame_ThrowEvent",
       "comment": "",
@@ -2269,7 +2269,6 @@
       "return_type": "void"
     }
   },
-  "None": {},
   "AUDIO_MANAGER": {
     "0xA22AB130": {
       "name": "AudioManager_StartLoadingMusic",
